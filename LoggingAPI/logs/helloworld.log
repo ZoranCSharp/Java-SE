@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-16T13:50:23.783493700Z</date>
+  <millis>1537105823783</millis>
+  <nanos>493700</nanos>
+  <sequence>1</sequence>
+  <logger>com.lesson34.HelloWorldClassLogger</logger>
+  <level>SEVERE</level>
+  <class>com.lesson34.HelloWorldHandlers</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Division by zero</message>
+</record>
+</log>
